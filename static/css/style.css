@@ -1,0 +1,7 @@
+body{
+    background-image: linear-gradient(cyan, purple)
+}
+.jumbotron{
+    color: white;
+    background-image: url(../images/background.jpg)
+}
